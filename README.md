@@ -1,2 +1,5 @@
 # first_project
-Hello, i have added some contect into Readme.txt file
+
+
+Rainbow da
+Hello, i have added some contect into Readme.txt fill
